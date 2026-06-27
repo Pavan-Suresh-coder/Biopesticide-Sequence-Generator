@@ -1,7 +1,6 @@
 **System Overview**
 This system architecture implements a lightweight, multi-stage machine learning pipeline engineered for the de novo generation and screening of antimicrobial peptides to serve as targeted biopesticides.
 
-Generative Phase:
 
 **Autoregressive Generation**: Uses a custom Peptide Transformer embedded with a causal self-attention mechanism.
 
